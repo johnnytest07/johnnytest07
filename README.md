@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johnathan</h1>
 
-<p><img align="center" display="block" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lagggpixel&theme=onedark&layout=compact" alt="johnnytest07" /></p>
+<p><img align="center" display="block" src="https://github-readme-stats.vercel.app/api/wakatime?username=johnnytest07&theme=onedark&layout=compact" alt="johnnytest07" /></p>
 
 <p><img align="center" display="block" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnnytest07&show_icons=true&locale=en&layout=compact&theme=onedark" alt="johnnytest07" /></p>
 
