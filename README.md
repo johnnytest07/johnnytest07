@@ -1,15 +1,15 @@
+styles{
+  p {
+    margin: auto auto auto auto;
+  }
+}
+
 <h1 align="center">Hi 👋, I'm Johnathan</h1>
-<br>  
-<br>  
-<br>  
-<br>  
-<br>  
-<br>  
-___
+
 <p><img align="center" display="block" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lagggpixel&theme=onedark&layout=compact" alt="johnnytest07" /></p>
-___
+
 <p><img align="center" display="block" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnnytest07&show_icons=true&locale=en&layout=compact&theme=onedark" alt="johnnytest07" /></p>
-___
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnytest07&show_icons=true&locale=en&theme=onedark" alt="johnnytest07" /></p>
 
 <!--
