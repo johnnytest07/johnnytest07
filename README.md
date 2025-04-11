@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Johnathan</h1>
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
+<br>  
 ___
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johnnytest07&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ___
