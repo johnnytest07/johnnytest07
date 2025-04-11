@@ -1,4 +1,4 @@
-[![Johnathan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johnnytest07)](https://github.com/johnnytest07/github-readme-stats)
+[![Johnathan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johnnytest07)](https://github.com/anuraghazra/github-readme-stats)
 [![Johnathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnytest07)](https://github.com/johnnytest07/github-readme-stats)
 <!--
 **johnnytest07/johnnytest07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
